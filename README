@@ -1,4 +1,5 @@
-This is your new Play application
+Anorm Test using Play with H2 in memory DB.
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+Just `cd` into anorm_test and run `./activator run`
+Then load localhost:9000
